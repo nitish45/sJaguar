@@ -1,0 +1,35 @@
+[
+{   
+    "typeID": "PAGE",
+    "sectionID": "loginpage",
+    "data": [
+    {
+        "xpath" : "//div[@class=\"unit-copy-wrapper\"]/h2/span[contains(text(),\"iPhone XR\")]/parent::h2/following-sibling::div/a",
+		"identifier" : "iphoneXR_learnmore",
+		"key": ""
+    },
+    {
+        "xpath" : "//div[@class=\"unit-copy-wrapper\"]/h2/span[contains(text(),\"iPhone XS\")]/parent::h2/following-sibling::div/a",
+	    "identifier" : "iphoneXS_learnmore",
+		"key": ""
+    }
+    ] 
+},
+{
+	"typeID": "USERSTORY",
+    "sectionID": "US123456",
+    "data": [
+    {
+        "xpath" : "//xpath here",
+		"identifier" : "iphoneXR_buy",
+		"key": ""
+    },
+    {
+        "xpath" : "//xpath here",
+	    "identifier" : "iphoneXS_buy",
+		"key": ""
+    }
+    ]
+}
+
+]

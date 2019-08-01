@@ -1,0 +1,26 @@
+[{"USERSTORY-001": [
+    
+	    {
+	        "expectedValue"      : "iPhone XR - Apple (IN)",
+	        "field"      : "PageTitle",
+			"identifier" : "HomePage"
+	    },
+	    {
+	        "expectedValue"      : "iPh2one XR - Apple (IN)",
+	        "field"      : "PageTitle2",
+			"identifier" : "HomePag2e"
+	    }
+    ]    
+    },
+	{"USERSTORY-002": [
+    
+	    {
+	        "expectedValue"      : "fffff",
+	        "field"      : "PafgeTitle",
+			"identifier" : "HomePage"
+	    }
+    ]
+    }
+
+
+]
